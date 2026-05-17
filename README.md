@@ -191,7 +191,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-RentalHouseManagementSystem/
+PlataformaWebRentaViviendasLaravel/
 │
 ├── admin/                    # Panel administrativo
 ├── properties/               # Gestión de propiedades
@@ -226,7 +226,7 @@ RentalHouseManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/RentalHouseManagementSystem.git
+git clone https://github.com/isairey/PlataformaWebRentaViviendasLaravel.git
 ```
 
 ---
@@ -236,7 +236,7 @@ git clone https://github.com/isairey/RentalHouseManagementSystem.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/RentalHouseManagementSystem/
+xampp/htdocs/PlataformaWebRentaViviendasLaravel/
 ```
 
 ---
@@ -285,7 +285,7 @@ define('DB_NAME','rental_house_system');
 Abrir:
 
 ```bash
-http://localhost/RentalHouseManagementSystem/
+http://localhost/PlataformaWebRentaViviendasLaravel/
 ```
 
 ---
@@ -317,18 +317,7 @@ http://localhost/RentalHouseManagementSystem/
 - Supervisión administrativa
 - Información detallada
 
----
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🔐 Inicio de sesión
-![Login](https://github.com/lvweicheng/Rental-house-management-system/blob/master/WX20180903-111006.png)
-
-</div>
 
 ---
 
